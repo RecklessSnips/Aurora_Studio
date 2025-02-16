@@ -9,10 +9,15 @@
           class="col-12 md:col-6 bg-no-repeat bg-cover p-8"
           style="background-image: url('/images/blocks/contact/contact-2.jpg')"
         >
-          <div class="text-white text-2xl font-medium mb-6">Contact Us</div>
+          <div class="text-white text-2xl font-medium mb-2">Contact Us</div>
           <div class="text-gray-300 line-height-3 mb-6">
             Have questions about our workshops? Want to book a session or inquire about a custom
             design? We'd love to hear from you!
+          </div>
+          <div class="text-white line-height-1 mb-4">
+            <div class="mb-2 text-xl font-semibold">Operating Hours</div>
+            <div class="mb-2">Mon-Fri: 9am - 9pm</div>
+            <div class="mb-2">Sat-Sun: 9.30am - 5.30pm</div>
           </div>
           <a
             class="inline-flex align-items-center text-blue-300 font-bold no-underline cursor-pointer"
