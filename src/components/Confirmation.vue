@@ -55,7 +55,7 @@ const router = useRouter()
 
 const backgroundImage = computed(() => route.meta.background)
 
-const ratingValue = ref<number | null>(null)
+const ratingValue = ref<number | undefined>(undefined)
 
 const submitRating = () => {
   if (ratingValue.value === null) {
