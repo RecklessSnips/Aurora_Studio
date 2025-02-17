@@ -14,8 +14,7 @@
         class="text-center text-xl line-height-4 text-600"
         style="background-color: rgb(252, 244, 229)"
       >
-        Faucibus ornare suspendisse sed nisi. Nisl rhoncus mattis rhoncus urna neque viverra justo
-        nec.
+        Our best artists will provide you all the traning and tools you need!
       </div>
       <div class="grid">
         <div
